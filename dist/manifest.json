@@ -1,0 +1,15 @@
+{
+  "builtAt": "2026-10-29T07:44:48.089Z",
+  "files": {
+    "site": {
+      "file": "dist/site.min.js",
+      "bytes": 21817,
+      "integrity": "sha384-DaqXkAHFGBBzoeg52Kc+hrg4auXDeZ3oniqVH1RjzRLZkY2YJv+JDd/5/myA2ZN5"
+    },
+    "can": {
+      "file": "dist/can.min.js",
+      "bytes": 684951,
+      "integrity": "sha384-2796kdhXyjLRmNAlh85TCW5Ru/ePLC+JujR4nEpsehHzBcRU7PdfNN+TvlC8mG5K"
+    }
+  }
+}
