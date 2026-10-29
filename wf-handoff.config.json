@@ -1,0 +1,22 @@
+{
+  "name": "demo-case",
+  "repo": "tochukwu19/wf-handoff-case-demo",
+  "entries": {
+    "site": {
+      "src": "src/site.js",
+      "placement": "footer",
+      "esbuild": {
+        "target": "es2019"
+      }
+    },
+    "can": {
+      "src": "src/can.js",
+      "placement": "footer",
+      "esbuild": {
+        "define": {
+          "import.meta.url": "'https://cdn.jsdelivr.net/npm/three@0.185.1/examples/jsm/loaders/KTX2Loader.js'"
+        }
+      }
+    }
+  }
+}
